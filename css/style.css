@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:wght@300;400&display=swap");
+
+body {
+  font-family: "Oswald", sans-serif;
+  background: #000;
+}
+
+p {
+  font-size: 2em;
+  color: #fff;
+}
+.cajaNeon {
+  border: 2px solid #6fbaf4;
+  padding: 10px;
+  display: inline-block;
+  text-shadow: 0 0 5px #6fbaf4, 0 0 10px #6fbaf4, 0 0 20px #6fbaf4,
+    0 0 30px #6fbaf4, 0 0 40px #6fbaf4, 0 0 50px #6fbaf4, 0 0 70px #6fbaf4,
+    0 0 80px #6fbaf4, 0 0 100px #6fbaf4;
+}
+
+.luzAzul {
+  text-shadow: 0 0 5px #6fbaf4, 0 0 10px #6fbaf4, 0 0 20px #6fbaf4,
+    0 0 30px #6fbaf4, 0 0 40px #6fbaf4, 0 0 50px #6fbaf4, 0 0 70px #6fbaf4,
+    0 0 80px #6fbaf4, 0 0 100px #6fbaf4;
+  background-color: #6fbaf4;
+  padding: 20px;
+  display: inline-block;
+}
